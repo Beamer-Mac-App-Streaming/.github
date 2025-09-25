@@ -20,7 +20,7 @@ The application excels in its ability to handle a wide array of video formats—
 
 Ideal for both casual viewers and home theater enthusiasts, Beamer for Mac combines simplicity with powerful functionality. Its intuitive interface ensures that anyone can start streaming in seconds, while its robust performance guarantees smooth, uninterrupted playback every time.
 
-![Beamer Mac Interface](https://static.macupdate.com/screenshots/284937/m/beamer-screenshot.png?v=1613408786)
+![Beamer Mac Interface](https://thesweetbits.com/wp-content/uploads/2023/07/beamer03.jpg)
 
 ---
 
